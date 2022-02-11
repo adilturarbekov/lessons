@@ -15,3 +15,6 @@ print (a=b)
 a = 9*2
 b = 20-2
 print (a=b)
+
+
+print (example)
